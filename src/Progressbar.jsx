@@ -20,6 +20,7 @@ const Progressbar = () => {
   return (
     <>
       <div className="w-full my-10">
+          <h1 className="text-2xl mb-5">Progress Bar</h1>
         <div className="h-8 bg-gray-200 rounded-full overflow-hidden">
           <div
             className="h-full bg-blue-500 flex items-center justify-center transition-all duration-300"
